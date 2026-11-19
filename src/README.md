@@ -1,5 +1,5 @@
-# Source Code
+**Source Code | Kaynak Kodlar**
 
-**EN:** This folder contains the Python source code used in the Date Fruit Classification project.
+**EN:** Python source files for the Date Fruit Classification project.
 
-**TR:** Bu klasör, Hurma Sınıflandırma projesinde kullanılan Python kaynak kodlarını içerir.
+**TR:** Hurma Sınıflandırma projesine ait Python kaynak kodları.
