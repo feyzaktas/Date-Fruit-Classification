@@ -1,4 +1,4 @@
-** Notebooks | Jupyter Çalışmaları **
+**Notebooks | Jupyter Çalışmaları**
 
 **EN:** This folder contains Jupyter notebooks for data exploration and machine learning experiments.
 
